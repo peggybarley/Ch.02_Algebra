@@ -46,5 +46,4 @@ ave = (x+y+z)/3 Grouping symbols needed to be added around "x+y+z"
 ave = 4.0
 
 
-
 '''
